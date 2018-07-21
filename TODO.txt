@@ -2,3 +2,5 @@ create window that attatches to icon dock rather than task bar
 get raw mouse input to detect if mouse is on edge of screen AND still moving
 detect or allow for configuration of monitor setups (L shaped setups) (large monitor surounded by small monitors)
 add self configure for start on login
+
+add 360 viewer to allow viewing of 360 degree video on all monitors
